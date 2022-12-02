@@ -1,2 +1,3 @@
 # KOC42
-LEARNING
+LEARNING 
+the feature
